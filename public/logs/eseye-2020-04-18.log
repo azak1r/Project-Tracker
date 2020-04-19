@@ -1,0 +1,8 @@
+[2020-04-18T15:09:57.593653+00:00] eseye.WARNING: Access denied to https://esi.evetech.net/v5/characters/554342429/assets/?datasource=tranquility due to missing scopes.
+[2020-04-18T15:11:34.809452+00:00] eseye.WARNING: Access denied to https://esi.evetech.net/v5/characters/554342429/assets/?datasource=tranquility due to missing scopes.
+[2020-04-18T15:11:37.378356+00:00] eseye.WARNING: Access denied to https://esi.evetech.net/v5/characters/554342429/assets/?datasource=tranquility due to missing scopes.
+[2020-04-18T15:11:39.048521+00:00] eseye.WARNING: Access denied to https://esi.evetech.net/v5/characters/554342429/assets/?datasource=tranquility due to missing scopes.
+[2020-04-18T15:37:40.372032+00:00] eseye.WARNING: Access denied to https://esi.evetech.net/v5/characters/554342429/assets/?datasource=tranquility due to missing scopes.
+[2020-04-18T15:38:06.067365+00:00] eseye.WARNING: Access denied to https://esi.evetech.net/v5/characters/554342429/assets/?datasource=tranquility due to missing scopes.
+[2020-04-18T16:13:45.367596+00:00] eseye.INFO: [http 200, ok] get -> https://esi.evetech.net/latest/characters/554342429/assets/?datasource=tranquility [t/e: 0.54s/100]
+[2020-04-18T20:34:09.822512+00:00] eseye.INFO: [http 200, ok] get -> https://esi.evetech.net/latest/characters/554342429/assets/?datasource=tranquility [t/e: 0.58s/100]
